@@ -1,2 +1,2 @@
 # Nitin-college
-This is second Repository
+This is my second Repository
